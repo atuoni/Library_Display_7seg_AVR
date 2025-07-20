@@ -13,7 +13,7 @@ The main.c file was used to implement this demonstration.
 Changing the #define in avr_display_7seg.h file the user can compile the code for use with common anode displays or common cathode displays.
 The user can also define the decimal places of the decimal number displayed with #define modification.
 
-The avr_display_7seg.h file show the functions that the user has access for use in his final code.
+The avr_display_7seg.h file shows the functions that the user has access to use in his final code.
 
 ### Library files:
 - main.c     (test of the library)
@@ -30,12 +30,8 @@ The avr_display_7seg.h file show the functions that the user has access for use 
 The complete firmware code has a size of 12KB. It can be modified a little for use with other microcontrollers. 
   
 
-## VIDEO
-[![Watch the video.](http://img.youtube.com/vi/sDOyX_M_l8k/0.jpg)](https://youtu.be/A_VDRrmFAnU)
+## DEMONSTRATION VIDEO
+[![Watch the video.](https://i9.ytimg.com/vi_webp/A_VDRrmFAnU/mqdefault.webp?sqp=CMTR9MMG&rs=AOn4CLDlp6n0WflzGJuWrxlIloHFGioxCg)](https://youtu.be/A_VDRrmFAnU)
 
-https://youtu.be/A_VDRrmFAnU
-
-https://i9.ytimg.com/vi_webp/A_VDRrmFAnU/mqdefault.webp?sqp=COjF9MMG&rs=AOn4CLDHUfih2gf2KOL_DwsQ73kC21AvVw
-https://i9.ytimg.com/vi_webp/A_VDRrmFAnU/mqdefault.webp?sqp=CMTR9MMG&rs=AOn4CLDlp6n0WflzGJuWrxlIloHFGioxCg
 
 
