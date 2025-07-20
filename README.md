@@ -1,8 +1,9 @@
 # 7 Segments Display AVR MCU Library
 
 ## About
-This is a repository with a microcontroller firmware C library for an Atmel MCU (ATMEGA328P). The code was written in C language and it was used the Atmel Studio IDE (GCC compiler) to compile and build the program. 
-The code comments is in the portuguese language.
+This is a repository with a microcontroller firmware C library for an Atmel MCU (ATMEGA328P). 
+The code was written in C language and it was used the Atmel Studio IDE (GCC compiler) to compile and build the program. 
+The code comments is in portuguese language.
 
 
 ## How it works
@@ -26,10 +27,15 @@ The avr_display_7seg.h file show the functions that the user has access for use 
 
 
 ### Library Size
-The complete firmware has a size of 12KB. It can be modified a little for use with other microcontrollers. 
+The complete firmware code has a size of 12KB. It can be modified a little for use with other microcontrollers. 
   
 
-## VIDEO (In portuguese language)
-[![Watch the video.](http://img.youtube.com/vi/sDOyX_M_l8k/0.jpg)](http://www.youtube.com/watch?v=sDOyX_M_l8k "General Timer")
+## VIDEO
+[![Watch the video.](http://img.youtube.com/vi/sDOyX_M_l8k/0.jpg)](https://youtu.be/A_VDRrmFAnU)
+
+https://youtu.be/A_VDRrmFAnU
+
+https://i9.ytimg.com/vi_webp/A_VDRrmFAnU/mqdefault.webp?sqp=COjF9MMG&rs=AOn4CLDHUfih2gf2KOL_DwsQ73kC21AvVw
+https://i9.ytimg.com/vi_webp/A_VDRrmFAnU/mqdefault.webp?sqp=CMTR9MMG&rs=AOn4CLDlp6n0WflzGJuWrxlIloHFGioxCg
 
 
