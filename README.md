@@ -31,4 +31,5 @@ The complete firmware code has a size of 12KB. It can be modified a little for u
   
 
 ## DEMONSTRATION VIDEO
-[![Watch the video.](https://i9.ytimg.com/vi_webp/A_VDRrmFAnU/mq2.webp?sqp=CMiZicQG&rs=AOn4CLCPmKhYLCMP50CwcR3kAudk-NgEDw)](https://youtu.be/A_VDRrmFAnU)
+
+[![Watch the video.](https://i9.ytimg.com/vi_webp/A_VDRrmFAnU/mq2.webp?sqp=CJTQxMcG&rs=AOn4CLCO7SfW88MGza4UJEc4of3oDQ_WAA)](https://youtu.be/A_VDRrmFAnU)
